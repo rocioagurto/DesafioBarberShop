@@ -1,0 +1,38 @@
+.section__pagination {
+    background-color: $ligth-gray;
+    height: 134px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.page-item { 
+   
+    text-align: center;
+    font-family: $roboto;
+    font-size: size-small;
+    font-weight: $regular;
+
+}
+.sr-only {
+    background-color: $nickel;
+}
+
+.pagination {
+    border-style: solid $ligth-gray;
+    
+}
+
+.page-link {
+    background-color: $blanco;
+    color: $nickel;
+
+}
+
+.page-item.active .page-link {
+    background-color: $nickel;
+    border-color: $nickel;
+    color: $blanco;
+}
+

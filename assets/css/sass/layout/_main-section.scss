@@ -1,0 +1,32 @@
+.autor__image {
+    border-radius: 50%;
+    width: 177px;
+    height: 180px;
+    
+    
+}
+
+.autor__name {
+    color: $raisin-black;
+    text-align: left;
+    padding-left: 3%;
+}
+
+.autor__note {
+    color: $fuzzi;
+    text-align: left;
+    border-left: 2%;
+}
+
+.autor__description {
+    color: $nickel;
+    text-align: left;
+    line-height: 35px;
+}
+
+.row {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 7%;
+}

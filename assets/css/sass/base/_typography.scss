@@ -1,0 +1,48 @@
+p, h6 {
+    font-family: $roboto;
+}
+
+h1, h2, h5 {
+    font-family: $playfair;
+}
+
+h1, h5 {
+    font-weight: $black-italic;
+}
+
+h2, p {
+    font-weight: $regular;
+}
+
+h1 {
+    font-size: $size-xx-large;
+}
+h2 {
+    font-size: $size-large;
+}
+
+
+h5 {
+    font-size: $size-x-large;
+    font-style: italic;
+}
+h6 {
+    font-size: $size-largee;
+    font-weight: $thin;
+    color: $rudy-pink;
+
+}
+.autor__description {
+    font-weight: $thin;
+    font-size: $size-smallm;
+}
+
+.navbar-rocio li a {
+    font-family: roboto;
+    font-weight: $regular;
+    font-size: $size-medium;
+    color: $blanco;
+    
+}
+
+
